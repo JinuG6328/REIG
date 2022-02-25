@@ -1,7 +1,9 @@
 # Code for 'Variational Bayesian Optimal Experimental Design'
 
 ### Installation
-We use three repo ACE, VNMC, and MINEBED. you can follow the instructions how to install each repo. When you use install MINE, you can install it with 
+
+Run `git submodule init && git submodule update` to obtain copes of the ACE, VNMC, and MINEBED submodules.
+You can follow the instructions how to install each in its own subdirectory. When you use install MINE, you can install it with 
     > pip install -e .
 
 ### AB test(VNMC environment)
