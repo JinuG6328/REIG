@@ -1,4 +1,4 @@
-# Code for 'Variational Bayesian Optimal Experimental Design'
+# Code for 'Robust Bayesian Optimal Experimental Design'
 
 ### Installation
 
