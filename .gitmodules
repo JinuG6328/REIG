@@ -1,9 +1,9 @@
 [submodule "minebed"]
 	path = minebed
-	url = https://bitbucket.org/harri578/minebed_exp.git
+	url = https://github.com/JinuG6328/minebed_exp.git
 [submodule "vnmc"]
 	path = vnmc
-	url = https://bitbucket.org/harri578/vnmc_exp.git
+	url = https://github.com/JinuG6328/vnmc_exp.git
 [submodule "ace"]
 	path = ace
-	url = https://bitbucket.org/harri578/usgad_exp.git
+	url = https://github.com/JinuG6328/usgad_exp.git
